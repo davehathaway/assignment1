@@ -10,3 +10,6 @@ end
 get '/japanese' do
   "Konban Wa!"
 end
+get '/Hawaiian' do
+  "Aloha Oi"
+end
