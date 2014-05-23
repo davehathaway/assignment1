@@ -1,11 +1,3 @@
-html { 
-  background: url('https://flic.kr/p/dwBuyZ') 
-    no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
- }
 
 .profile {
   background: lightgray;
@@ -25,3 +17,11 @@ html {
    border-radius: 50px;
  }
 
+html { 
+  background: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3WpSTr5qxvH-b0sBFHvtvYXj1VZ9bsPrvr53rjFNU4X0c-VN2uQ') 
+    no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
