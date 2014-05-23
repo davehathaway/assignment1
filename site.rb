@@ -5,4 +5,5 @@ require 'sinatra'
    "I'm alive!"
    get '/italian' do
      "Ciao!"
+   end
  end
