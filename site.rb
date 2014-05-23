@@ -7,3 +7,6 @@ require 'sinatra'
 get '/italian' do
   "Ciao"
 end
+get '/japanese' do
+  "Konban Wa!"
+end
